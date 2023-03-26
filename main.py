@@ -2,7 +2,7 @@ import telebot
 from telebot import types
 from geopy.geocoders import Nominatim #Подключаем библиотеку
 
-token = '6146418904:AAHZVXmoAprtwOLrHRjZwvG1HAFB1nJ3hao'
+token = '*'
 bot = telebot.TeleBot(token)
 global lon, lat
 
